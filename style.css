@@ -90,7 +90,9 @@ body {
 
 .not-account {
     color: rgb(160, 160, 160);
+    margin-top: 1rem;
 }
+
 
 .link-blue {
     color: #0095f6;
